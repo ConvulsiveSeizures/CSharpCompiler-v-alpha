@@ -1,0 +1,10 @@
+D:\C#solutions\CSCompiler\bin\Debug\CSCompiler.exe.config
+D:\C#solutions\CSCompiler\bin\Debug\CSCompiler.exe
+D:\C#solutions\CSCompiler\bin\Debug\CSCompiler.pdb
+D:\C#solutions\CSCompiler\obj\Debug\CSCompiler.csprojAssemblyReference.cache
+D:\C#solutions\CSCompiler\obj\Debug\CSCompiler.Form1.resources
+D:\C#solutions\CSCompiler\obj\Debug\CSCompiler.Properties.Resources.resources
+D:\C#solutions\CSCompiler\obj\Debug\CSCompiler.csproj.GenerateResource.cache
+D:\C#solutions\CSCompiler\obj\Debug\CSCompiler.csproj.CoreCompileInputs.cache
+D:\C#solutions\CSCompiler\obj\Debug\CSCompiler.exe
+D:\C#solutions\CSCompiler\obj\Debug\CSCompiler.pdb
